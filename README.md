@@ -68,12 +68,8 @@ sql_exploratory_data_analysis/
 │   ├── 02_dimensions_exploration.sql
 │   ├── 03_date_exploration.sql
 │   ├── 04_measures_exploration.sql
-│   ├── 05_magnitude_analysis.sql
-│   ├── 06_ranking_analysis.sql
-│   └── 07_other_eda_analysis.sql
 ├── results/
 │   └── analysis_results.md
-├── images/
 └── README.md
 ```
 
